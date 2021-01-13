@@ -1,3 +1,3 @@
 Title: English Tresaurus (Dictionary)
-Use Python
+Language: Python
 Usage: To look up an English word
